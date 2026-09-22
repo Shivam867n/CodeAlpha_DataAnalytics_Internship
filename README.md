@@ -11,4 +11,15 @@ Work Done
 - Processed and structured the extracted data.
 - Generated yearly CSV datasets.
 - Covered data from 1977 to 2026.
-- Stored the datasets separately inside the BoxOffice_CSV_DATA folder.
+- Stored the datasets separately inside the BoxOffice_CSV_DATA folder.<BR>
+🔹 Task 3 — Data Visualization<BR>
+Objective:
+Transform Box Office data into meaningful visualizations to identify trends and communicate insights clearly.
+
+Work Done:
+
+Prepared the dataset for visualization.
+Created charts and graphs using Python visualization libraries.
+Analyzed Box Office trends and patterns.
+Used visualizations to make the data easier to understand.
+Presented insights through graphical analysis.
