@@ -12,8 +12,8 @@ Work Done
 - Generated yearly CSV datasets.
 - Covered data from 1977 to 2026.
 - Stored the datasets separately inside the BoxOffice_CSV_DATA folder.<BR>
-🔹 Task 3 — Data Visualization<BR>
-Objective:
+##🔹 Task 3 — Data Visualization<BR>
+**Objective:**<BR>
 Transform Box Office data into meaningful visualizations to identify trends and communicate insights clearly.
 
 Work Done:
